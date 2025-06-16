@@ -751,7 +751,7 @@ main {
   gap: 4vw;
   position: relative;
   top: 4vw;
-  left: 20vw;
+  left: 14vw;
   gap: 10vw;
 }
 
@@ -843,7 +843,12 @@ main {
   }
 }
 
-
+.say-txt{
+  color: white;
+  position: relative;
+  top: -4vh;
+  text-align: center;
+}
 
 /* For Carousel Container */
 
@@ -859,7 +864,7 @@ main {
   /* background-color: #f0f2f5; */
   position: relative;
   width: 90%;
-  max-width: 1110px;
+  max-width: 1150px;
   margin: auto;
   overflow: hidden;
   border-radius: 10px;
@@ -1112,40 +1117,27 @@ main {
 .last-div {
   /* border: 2px solid white; */
   /* width: 60vw; */
-  height: 20vh;
+  height: 25vh;
   position: absolute;
   top: 20vh;
-  left: 20vw;
+  left: 12vw;
   display: flex;
-  gap: 6vw;
+  gap: 13vw;
 }
 
-.info {
-  margin-bottom: 8vh;
-  /* border: 2px solid white; */
-  height: 20vh;
-}
-
-.info h1 {
+.last-div h2{
   color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.last-div li{
+  padding: 2px;
+  margin-top: 10px;
+  list-style: none;
 }
 
-.last-div h1 {
-  padding-bottom: 3vh;
-
-  .info {
-    margin-top: 4vh;
-  }
-}
-
-.last-div a {
+.last-div li a{
+  color: rgb(166, 163, 163);
   text-decoration: none;
-  color: rgb(177, 175, 175);
-  padding: 10px;
-}
-
-.last-div a {
-  margin-right: 6px;
 }
 
 footer {
