@@ -1,0 +1,6 @@
+# Google font awsome link in head for using different style font
+https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined
+
+#CDN js link in head for icons
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+
