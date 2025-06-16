@@ -1,6 +1,8 @@
 AniQuest 🌟✨
 AniQuest is a beautifully crafted, responsive web project that leverages AI to instantly generate Anime & Fantasy content like stories, posts, and more. This project also features an interactive carousel for displaying client reviews or features smoothly.
 
+To preview website page: https://iamnabeelbabar.github.io/Xeven-Final-First-Landing-Page/
+
 🚀 Features
 🎨 Modern UI with Anime & Fantasy theme.
 
